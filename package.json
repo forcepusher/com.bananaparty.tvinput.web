@@ -1,0 +1,9 @@
+{
+  "name": "com.bananaparty.tvinput",
+  "version": "1.0.0",
+  "type": "library",
+  "displayName": "TV Input library",
+  "unity": "2021.2",
+  "description": "TV input for the WebGL platform.",
+  "author": "github.com/forcepusher"
+}
