@@ -1,9 +1,9 @@
 {
-  "name": "com.bananaparty.tvinput",
+  "name": "com.bananaparty.tvinput.web",
   "version": "1.0.0",
   "type": "library",
-  "displayName": "TV Input library",
-  "unity": "2021.2",
-  "description": "TV remote input for the WebGL platform.",
+  "displayName": "TV Input Web",
+  "unity": "2022.3",
+  "description": "Input from TV remotes and gamepads for the WebGL platform",
   "author": "github.com/forcepusher"
 }
