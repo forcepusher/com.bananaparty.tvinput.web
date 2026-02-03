@@ -4,6 +4,6 @@
   "type": "library",
   "displayName": "TV Input library",
   "unity": "2021.2",
-  "description": "TV input for the WebGL platform.",
+  "description": "TV remote input for the WebGL platform.",
   "author": "github.com/forcepusher"
 }
