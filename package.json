@@ -1,9 +1,17 @@
 {
-  "name": "com.bananaparty.tvinput.web",
+  "name": "com.bananaparty.input.tvremote",
   "version": "1.0.0",
   "type": "library",
-  "displayName": "TV Input Web",
+  "displayName": "TV Remote Input",
   "unity": "2022.3",
-  "description": "Input from TV remotes and gamepads for the WebGL platform",
+  "description": "Fully cross-platform input from TV remote",
+  "license": "MIT",
+  "samples": [
+    {
+      "displayName": "Playtesting Sample",
+      "description": "Contains sample for testing input on the TV device",
+      "path": "Samples~/PlaytestingSample"
+    }
+  ],
   "author": "github.com/forcepusher"
 }
